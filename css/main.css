@@ -22,6 +22,21 @@ p {
   color: white;
 }
 
+#p1 {
+  background-color: #A52A2A;
+  float: left;
+  height: 150px;
+}
+#p2 {
+  background-color: #004400;
+  float: left;
+  height: 150px;
+}
+#p3 {
+  background-color: #A52A2A;
+  float: left;
+  height: 150px;
+}
 
 
 
