@@ -4,6 +4,7 @@
 }
 h1 {
   margin-bottom: 15px;
+  font-family: 'comic-sans', sans-serif!Important;
 }
 
 p {
@@ -13,7 +14,7 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: comic-sans, sans-serif!Important;
+  font-family: 'comic-sans', sans-serif!Important;
   color: white;
 }
 
