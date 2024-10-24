@@ -20,6 +20,7 @@ p {
   margin-top: 15px;
   font-family: 'comic-sans', sans-serif!Important;
   color: white;
+  float: right;
 }
 
 #box {
